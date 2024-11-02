@@ -13,3 +13,10 @@ react의 기본적인 문법을 이해하는데 의의를 두었습니다.
 | JavaScript | TypeScript |  React   |  Node   |
 | :--------: | :--------: | :------: | :-----: |
 |   ![js]    |   ![ts]    | ![react] | ![node] |
+
+<!-- Stack Icon Refernces -->
+
+[js]: /src/etc/javascript.svg
+[ts]: /src/etcstack/typescript.svg
+[react]: /src/etc/stack/react.svg
+[node]: /src/etc/stack/node.svg
