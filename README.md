@@ -10,9 +10,9 @@ react의 기본적인 문법을 이해하는데 의의를 두었습니다.
 <br /><br />
 
 # 기술 스택
-|    HTML    |    CSS    |   Javascript   |  React   |
-| :--------: | :--------: |   :------:    | :-----:  |
-|   ![html]  |   ![css]   |     ![js]     | ![react] |
+|    HTML    |     CSS    |   Javascript   |  React   |
+| :--------: | :--------: |   :------:     | :-----:  |
+|   ![html]  |   ![css]   |     ![js]      | ![react] |
 
 <!-- Stack Icon Refernces -->
 
