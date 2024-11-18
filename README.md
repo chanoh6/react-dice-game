@@ -13,10 +13,14 @@ react의 기본적인 문법을 이해하는데 의의를 두었습니다.
 # 구현 기능
 
 1. 던지기 버튼 클릭
-
 - 던지기 버튼을 클릭 시 나와 상대의 랜덤 숫자를 state에 저장하여 표시
 <br />
-  <img width="80%" src="./src/etc/dicegame-roll.png"/>
+<img width="80%" src="./src/etc/dicegame-roll.png"/>
+
+2. 처음부터 버튼 클릭
+- 처음부터 버튼 클릭 시 던지기 버튼을 클릭했을 때 저장된 state 값 초기화
+<br />
+<img width="80%" src="./src/etc/dicegame-clear.png"/>
 
 # 기술 스택
 
